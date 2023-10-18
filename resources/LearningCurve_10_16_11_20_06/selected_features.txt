@@ -1,0 +1,5 @@
+AtomicNumber_composition_average
+AtomicRadii_composition_average
+ElectricalConductivity_composition_average
+AtomicWeight_composition_average
+Column_composition_average
