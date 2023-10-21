@@ -1,0 +1,5 @@
+AtomicNumber_composition_average
+AtomicRadii_composition_average
+AtomicWeight_composition_average
+BCCefflatcnt_composition_average
+BCCvolume_padiff_composition_average
