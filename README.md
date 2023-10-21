@@ -14,4 +14,8 @@ Let me know if you can have access to my homework or not. ╰(●’◡’●)�
 
 ### Features Organic v1.3.ipynb
 
-is my lab3 Jupyter notebook file
+are my lab3 Jupyter notebook files
+
+### resources
+
+is the output from both *.ipynb files
